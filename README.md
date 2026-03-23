@@ -67,6 +67,7 @@ UI & Formulario	Validación completa de campos, valores límite y clases de equi
 Mobile App	Notificaciones, conectividad offline y diseño visual	4
 API	Endpoints Courier y Orders con pruebas positivas y negativas	13
 SQL & DB	Consultas funcionales y joins correctos	0
+
 ✨ Conclusión
 
 Este proyecto refleja un avance significativo en habilidades de testing profesional. La atención al detalle, cobertura exhaustiva y documentación clara muestran un enfoque avanzado y profesional en testing de software.
